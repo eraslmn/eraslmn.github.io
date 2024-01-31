@@ -47,6 +47,6 @@
             rotation="0 0 0"
         ></a-dodecahedron>
     </a-scene>
-    <button class="navigate-button" onclick="window.location.href='marker-based.html'">Go to Marker-Based</button>
+    <button class="navigate-button" onclick="window.location.href='index.html'">Go to Marker-Based</button>
 </body>
 </html>
